@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438238634887",
+    "project_id": "coolfirebas",
+    "storage_bucket": "coolfirebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438238634887:android:7107424fb3e39de2266922",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438238634887-550ck86f9561mhs5ro38ckiqrg8u348b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDvvyMeXsAa5vOqRuOh6eFyK8c-AC0UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438238634887-550ck86f9561mhs5ro38ckiqrg8u348b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
